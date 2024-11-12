@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning c,c++ and c# language
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me azizrebhi1990@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Aziz-Rebhi16/Aziz-Rebhi16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
